@@ -10,6 +10,8 @@ This project demonstrates a SOC-style phishing email analysis using a simulated 
 
 A simulated DocuSign-themed email was analyzed after appearing to request that a user review and sign a payroll-related document. The email used DocuSign branding, a business-related subject line, and a prominent call-to-action button to encourage the recipient to interact with the message.
 
+**Status:** Completed
+
 ---
 
 ## Objective
