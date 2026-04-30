@@ -150,7 +150,7 @@ The email was determined to be phishing. The combination of brand impersonation,
 
 - Do not click the link or submit credentials.
 - Report the email to the security team or phishing mailbox.
-- Block or monitor the suspicious sender domain.
+- Block or monitor the suspicious sender domain if confirmed malicious in a real environment.
 - Search for similar emails across the environment.
 - Educate users on DocuSign-themed phishing attempts.
 - If credentials were entered, reset the affected user’s password and review sign-in activity.
