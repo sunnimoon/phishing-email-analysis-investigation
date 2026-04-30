@@ -4,13 +4,13 @@
 
 This project demonstrates a SOC-style phishing email analysis using a simulated DocuSign phishing email from the CanIPhish Email Phishing Simulator. The investigation focused on reviewing the sender address, email subject, email body, call-to-action button, payload destination, phishing indicators, and final analyst verdict.
 
+**Status:** Completed
+
 ---
 
 ## Scenario
 
 A simulated DocuSign-themed email was analyzed after appearing to request that a user review and sign a payroll-related document. The email used DocuSign branding, a business-related subject line, and a prominent call-to-action button to encourage the recipient to interact with the message.
-
-**Status:** Completed
 
 ---
 
